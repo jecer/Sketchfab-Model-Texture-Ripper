@@ -1,7 +1,5 @@
 # Sketchfab-Model-Texture-Ripper
 
-# Sketchfab-Model-Texture-Ripper
-
 A userscript that allows you to download 3D models from Sketchfab along with their textures.
 Optimized version https://github.com/gamedev44/Fabulous-Ripper
 
