@@ -178,9 +178,3 @@ This userscript is provided as-is for educational purposes. Use at your own risk
 **Remember: Always respect content creators and their licensing terms!** 🎨
 
 </div>
-
-<div align="center">
-
-**Remember: Always respect content creators and their licensing terms!** 🎨
-
-</div>
