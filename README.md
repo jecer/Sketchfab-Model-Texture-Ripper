@@ -119,13 +119,20 @@ If you experience memory issues:
 | **Protected Models** | Encrypted models won't work |
 
 ### File Structure
-downloaded_file.zip
+
+downloaded_file.zip 
 ├── models/
+
 │ ├── model_0.obj
+
 │ ├── model_1.obj
+
 │ └── ...
+
 └── textures/
+
 ├── texture_name.png
+
 └── ...
 
 ## 💻 Browser Compatibility
